@@ -1,4 +1,4 @@
-👋 Hi, I’m @Mrunali0205
+👋 Hello World, I’m Mrunali - "A data science aficionado", pursuing Masters from DePaul University.
 - 👀 I’m interested in data visualization, data extraction, and driving innovation through data analysis.
 - 🌱 I’m currently learning advanced machine learning techniques and expanding my knowledge in Big Data technologies like Apache Hadoop and Pyspark.
 - 💞️ I’m looking to collaborate on data-driven projects, especially those focused on actionable insights and organizational growth.
